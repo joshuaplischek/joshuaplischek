@@ -8,7 +8,7 @@
 
 ## 💡 Über mich
 
-Ich bin Josh – ich code gern und probier Zeug aus. Auß0erdem lerne jeden Tag Neues dazu auch wenn mir zu wenig Zeit auf dieser Erde bleibt, für das was ich alles gerne lernen würde.  
+Ich bin Josh – ich code gern und probier Zeug aus. Außerdem lerne jeden Tag Neues dazu auch wenn mir zu wenig Zeit auf dieser Erde bleibt, für das was ich alles gerne lernen würde.  
 Frontend macht mir gerade am meisten Spaß, vor allem wenn’s clean aussieht und am Ende wirklich funktioniert. Ich möchte die verschiedensten Programme schreiben und auch Projekte & Websites umsetzen.
 
 Zurzeit arbeite ich mit **HTML**, **CSS** und **JavaScript**, sowie **Angular**, **TypeScript** & **Firebase**.  Allerdings habe ich auch großes Interesse an **Java**, **Python** und **C++**
