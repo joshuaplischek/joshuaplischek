@@ -54,7 +54,8 @@ Zurzeit arbeite ich mit **HTML**, **CSS** und **JavaScript**, sowie **Angular**,
 ## 🚀 Eigene Projekte
 
 - 📱 **Join** – Aufgabenmanager im Team (Projekt bei der Developer Akademie)
-
+- 👷‍♂️ **Bauelemente Kavy** - Website von Bauelemente Kavy: https://bauelemente-kavy.de
+- 🪟 **Fenster Outlet** - Ein Outlet für Fenster welche man vergünsigt erwerben kann wegen Fehlbestellungen! : Coming Soon
 ---
 
 ## 📊 GitHub Stats
@@ -70,7 +71,7 @@ Zurzeit arbeite ich mit **HTML**, **CSS** und **JavaScript**, sowie **Angular**,
 
 - 🌍 **Ort**: Deutschland (remote verfügbar)  
 - 🧠 [LinkedIn](https://www.linkedin.com/in/joshuaplischek)
-- 🛠️ [Portfolio](https://joshuaplischek.de)
+- 🛠️ [Portfolio](https://portfolio.jpsystems.me)
 - 📷 [Instagram](https://www.instagram.com/joshuaplischek)
 - 📧 Mail: developer@joshuaplischek.de
 
